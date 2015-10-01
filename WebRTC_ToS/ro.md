@@ -1,68 +1,68 @@
-# Firefox Hello Terms of Service
+# Termenii de utilizare ai serviciului Firefox
 
-November 25, 2014
+25 noiembrie 2014
 {: datetime="2014-11-25" }
 
-### 1. Introduction 
+### 1. Introducere 
 
-Firefox Hello is an end-to-end real-time communications video and voice service (“Service”) by Mozilla.  Please read this entire document (“Terms”) carefully because it explains your rights and responsibilities when you use Firefox Hello to send or receive communications.
+Firefox Hello este un serviciu de comunicații audio și voce capăt-la-capăt, în timp real („Serviciu”) oferit de Mozilla.  Vă rugăm să citiți acest document întreg („Termeni”) cu atenție deoarece explică drepturile și responsabilitățile dvs. când utilizați Firefox Hello pentru a trimite sau primi comunicații.
 
-### 2. Account Registration
+### 2. Înregistrarea contului
 
-A Firefox Account may be required to use certain features of the Service, such as importing your contacts from another service or creating new contacts.  If you sign up for a Firefox Account, you agree to its [Terms of Service](https://www.mozilla.org/en-US/about/legal/terms/services) and [Privacy Notice](https://www.mozilla.org/en-US/privacy/firefox-cloud).
+Un cont Firefox poate fi necesar pentru a utiliza anumite funcționalități ale Serviciului, precum importarea contactelor dvs. din alt serviciu sau crearea de contacte noi.  Dacă vă înregistrați pentru un cont Firefox, sunteți de acord cu [Termenii acestuia de utilizare ai Serviciului](https://www.mozilla.org/en-US/about/legal/terms/services) și [Politica de confidențialitate](https://www.mozilla.org/en-US/privacy/firefox-cloud).
 
-### 3. Features
+### 3. Funcționalități
 
-The Service is provided to you in collaboration with TokBox, Inc. (TokBox is also referred to in this document as a licensor).  The Service is integrated into Firefox so you can easily make voice and video calls between Firefox and users of any WebRTC-enabled browser or device.  The Service is subject to change.  Please reference Mozilla's [support site](https://support.mozilla.org/products/firefox) for questions on features. 
+Serviciul este furnizat în colaborare cu TokBox, Inc. (TokBox este menționat, de asemenea, licențiator în acest document). Serviciul este integrat în Firefox astfel încât să puteți realiza cu ușurință apeluri de voce și video între Firefox și utilizatorii care folosesc orice browser sau dispozitiv cu suport WebRTC.  Serviciul poate fi supus schimbării.  Vă rugăm să consultați [site-ul pentru suport](https://support.mozilla.org/products/firefox) al Mozilla pentru întrebări cu privire la funcționalități.
 
-### 4. Privacy Policy
+### 4. Politica de confidențialitate
 
-The [Firefox Hello Privacy Notice](https://www.mozilla.org/privacy/) explains what information is sent when you use the Service and how that information is handled.
+[Politica de confidențialitate a Firefox Hello](https://www.mozilla.org/privacy/) explică ce informații sunt trimise când utilizați Serviciul și cum sunt prelucrate aceste informații.
 
-### 5. Content & Use 
+### 5. Conținut și utilizare 
 
-You understand that the Service allows users to transmit certain information (such as video or images) (“Content”).  You hereby grant Mozilla and our licensors all rights necessary to provide the Service and you agree that your use of the Service will comply with Mozilla’s [Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use). You are solely responsible for the Content you transmit and the consequences. 
+Înțelegeți că Serviciul permite utilizatorilor să transmită anumite informații (cum ar fi video sau imagini) („Conținut”). Acordați prin prezenta Mozillei și licențiatorilor noștri toate drepturile necesare pentru a furniza Serviciul și sunteți de acord că utilizarea de către dvs. a Serviciului va respecta [Condițiile de utilizare](https://www.mozilla.org/about/legal/acceptable-use) ale Mozilla. Reponsabilitatea pentru Conținutul pe care îl transmiteți și consecințele vă aparține în exclusivitate.
 
-For more information on how to report a claim of copyright or trademark abuse, please see [here](https://www.mozilla.org/about/legal/report-abuse/).
+Pentru mai multe informații privind raportarea folosirii abuzive a unor drepturi de autor sau a unei mărci comerciale, vă rugăm să vedeți [aici](https://www.mozilla.org/about/legal/report-abuse/).
 
-### 6. Mozilla's and TokBox’s Proprietary Rights
+### 6. Drepturile de proprietate ale Mozilla și TokBox
 
-Neither Mozilla nor its licensors grant you any intellectual property rights in the Service that are not specifically stated in these Terms.  For example, these Terms do not provide the right to use any copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features of Mozilla or its licensors.  
+Nici Mozilla, nici licențiatorii săi nu vă acordă niciun drept de proprietate intelectuală asupra Serviciului care nu este menționat în mod explicit în acești Termeni.  De exemplu, acești Termeni nu conferă dreptul de a utiliza niciunul dintre drepturile de autor, denumirile comerciale, mărcile înregistrate, mărcile de servicii, logourile, numele de domenii sau alte caracteristici distinctive ale mărcii Mozilla sau ale licențiatorilor săi.
 
-The Mozilla software is distributed under and subject to the current version of the Mozilla Public License, or other similarly permissive licenses.
+Software-ul Mozilla se distribuie în baza și fac obiectul versiunii actuale a Licenței publice Mozilla sau altor licențe permisive similare.
 
-### 7. Services Interruption; Term; Termination
+### 7. Întreruperea Serviciilor; Termen; Reziliere
 
-From time to time, we may need to perform maintenance on or upgrade the Service, or temporarily suspend part or all of the Service. Notice is not always possible. You will not be entitled to claim expenses or damages for such suspension or limitation of the use of the Service.
+Ocazional putem avea nevoie să efectuăm întreținerea sau modernizarea Serviciului sau temporar să supendăm o parte sau tot Serviciul. Notificarea nu este întotdeauna posibilă. Nu veți avea dreptul să pretindeți cheltuieli sau daune pentru o asemenea suspendare sau limitare a utilizării Serviciului.
 
-These Terms apply to your use of the Service and will continue to apply until ended by either you or upon notice from Mozilla or TokBox. You can choose to end them at any time for any reason by discontinuing your use of the Service.
+Acești termeni se aplică pentru utilizarea de către dvs. a Serviciului și va continua până la rezilierea de către dvs. sau până la notificarea din partea Mozilla sau TokBox. Puteți decide să îi reziliați în orice moment și din orice motiv prin încetarea folosirii Serviciului.
 
-We may suspend or terminate your access to the Service or your Firefox Account at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms (ii) you create risk or possible legal exposure for Mozilla or TokBox; or (iii) the provision of the Service to you is no longer commercially viable. If possible, we will make reasonable efforts to notify you by the email address associated with your Firefox Account or the next time you attempt to access the Service.
+Putem suspenda sau restricționa accesul dvs. la Serviciu sau la contul Firefox în orice moment și din orice motiv, inclusiv, dar fără a ne limita la acestea, dacă suntem convinși că: (i) ați încălcat acești Termeni (ii) generați un risc sau o posibilă expunere juridică pentru Mozilla sau TokBox; sau (iii) furnizarea Serviciului către dvs. nu mai este viabilă din punct de vedere comercial. Dacă este posibil, vom depune eforturi rezonabile să vă informăm prin adresa de e-mail asociată contului dvs. Firefox sau la următoarea dvs. încercare de accesare a Serviciului.
 
-In all such cases, these Terms shall terminate, including, without limitation, your license to use the Service, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability and Miscellaneous.
+În toate aceste cazuri, acești termeni vor înceta, inclusiv, dar fără limitare la aceasta, licența dvs. de a utiliza Serviciul, cu excepția faptului că secțiunile următoare continuă să se aplice: Despăgubire, Declinarea responsabilității; Limitarea răspunderii și Diverse.
 
-### 8. Indemnification
+### 8. Despăgubire
 
-You agree to defend, indemnify and hold harmless Mozilla, TokBox and their respective parent and affiliate companies, contractors, contributors, licensors, partners, directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services (including, but not limited to, from any Content transmitted by you).
+Sunteți de acord să protejați, să despăgubiți și să exonerați de orice răspundere Mozilla, TokBox și respectivele societăți-mamă și societăți afiliate ale acestora, contractorii, contribuitorii, licențiatorii, partenerii, directorii, funcționarii, angajații și agenții acestora („Părți despăgubite”) față de pretențiile și cheltuielile de orice fel din partea oricăror terți, inclusiv onorariile avocaților, care decurg din sau au legătură cu utilizarea de către dvs. a Serviciilor (incluzând, dar fără limitare la acesta, orice conținut transmis de dvs.).
 
-### 9. Disclaimer; Limitation of Liability
+### 9. Declinarea responsabilității; Limitarea răspunderii
 
-THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, THE INDEMNIFIED PARTIES, HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING.
+SERVICIILE SUNT FURNIZATE „CA ATARE”, CU TOATE DEFECTELE. ÎN MĂSURA PERMISĂ DE LEGE, PĂRȚILE DESPĂGUBITE EXCLUD PRIN PREZENTA ÎN MOD EXPRES SAU IMPLICIT ORICE GARANȚIE, INCLUZÂND, FĂRĂ A SE LIMITA LA ACESTEA, GARANȚIILE CĂ SERVICIILE NU PREZINTĂ DEFECTE, SUNT VANDABILE, ADECVATE PENTRU UN ANUMIT SCOP ȘI NON-LITIGIOASE.
 
-YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT.
+SUPORTAȚI ÎN ÎNTREGIME RISCUL LEGAT DE SELECTAREA SERVICIILOR PENTRU SCOPURILE DVS. ȘI CALITATEA ȘI PERFORMANȚA SERVICIILOR, INCLUZÂND, FĂRĂ LIMITARE LA ACESTA, RISCUL ȘTERGERII SAU CORUPERII CONȚINUTULUI DVS. SAU AL ACCESĂRII DE CĂTRE O ALTĂ PERSOANĂ A CONȚINUTULUI DVS.
 
-THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+ACEASTĂ LIMITARE SE APLICĂ FĂRĂ A LUA ÎN CONSIDERARE ABATEREA DE LA SCOPUL PRINCIPAL AL ORICĂREI MĂSURI REPARATORII. ÎN ANUMITE JURISDICȚII NU ESTE PERMISĂ EXCLUDEREA SAU LIMITAREA GARANȚIILOR IMPLICITE, ASTFEL ÎNCÂT ESTE POSIBIL CA DECLINAREA RESPONSABILITĂȚII SĂ NU SE APLICE ÎN CAZUL DVS.
 
-EXCEPT AS REQUIRED BY LAW, THE INDEMNIFIED PARTIES, WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF THE INDEMNIFIED PARTIES, UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+CU EXCEPȚIA SITUAȚIILOR PREVĂZUTE DE LEGE, PĂRȚILE DESPĂGUBITE NU VOR FI TRASE LA RĂSPUNDERE PENTRU DAUNE INDIRECTE, SPECIALE, ACCIDENTALE, CONSECUTIVE SAU EXEMPLARE CE DECURG SAU POT FI ATRIBUITE ÎN VREUN FEL ACESTOR TERMENI SAU UTILIZĂRII SAU INCAPACITĂȚII DE A UTILIZA SERVICIILE, INCLUZÂND, FĂRĂ A SE LIMITA LA ACESTEA, DAUNELE DIRECTE ȘI INDIRECTE PENTRU PIERDEREA REPUTAȚIEI, ÎNTRERUPEREA LUCRULUI, PROFITUL NEREALIZAT, PIERDEREA DE DATE ȘI DEFECTAREA SAU FUNCȚIONAREA DEFECTUOASĂ A COMPUTERELOR, CHIAR DACĂ LI S-A ADUS LA CUNOȘTINȚĂ POSIBILITATEA ACESTOR DAUNE ȘI INDIFERENT DE ARGUMENTELE (CONTRACT, FAPTĂ ILICITĂ SAU ALTE CAUZE) PE CARE SE ÎNTEMEIAZĂ ACEASTĂ PRETENȚIE. RĂSPUNDEREA COLECTIVĂ A PĂRȚILOR DESPĂGUBITE ÎN BAZA PREZENTULUI ACORD NU VA DEPĂȘI 500 $ (CINCI SUTE DE DOLARI). ÎN ANUMITE JURISDICȚII NU ESTE PERMISĂ EXCLUDEREA SAU LIMITAREA DAUNELOR ACCESORII, CONSECUTIVE SAU SPECIALE, ASTFEL ÎNCÂT ESTE POSIBIL CA ACEASTĂ EXCLUDERE ȘI LIMITARE SĂ NU SE APLICE ÎN CAZUL DVS.
 
-### 10. Modifications to these Terms
+### 10. Modificări ale acestor Termeni
 
-These Terms may be updated from time to time to address a new feature of the Service or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+Acești Termeni pot fi actualizați periodic pentru a aborda o nouă funcționalitate a Serviciului sau pentru a clarifica o dispoziție. Termenii actualizați vor fi publicați online. Dacă modificările sunt substanțiale, vom anunța actualizarea prin canalele Mozilla obișnuite pentru astfel de anunțuri, precum publicări pe blog sau forumuri. Continuarea utilizării de către dvs. a Serviciului după data intrării în vigoare a acestor modificări constituie acceptarea de către dvs. a acestor modificări. Pentru a vă ușura efortul de examinare, vom publica o dată de intrare în vigoare în partea superioară a acestei pagini.
 
-### 11. Miscellaneous
+### 11. Diverse
 
-These Terms constitute the entire agreement between you, Mozilla and TokBox concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+Acești Termeni constituie întregul acord între dvs., Mozilla și TokBox privind Serviciile și sunt reglementați de legislația statului California, S.U.A., cu excepția normelor privind conflictul de legi. Dacă o prevedere a acestor Termeni este considerată nulă sau inaplicabilă, acest fapt nu va afecta aplicabilitatea celorlalte prevederi. În cazul conflictului dintre o versiune tradusă a acestor Termeni și versiunea în limba engleză, versiunea în limba engleză va avea prioritate.
 
-### 12. Contact Us
+### 12. Contactați-ne
 
-Contact Mozilla at: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) or via e-mail to: <mailto:legal-notices@mozilla.com>.
+Contactați Mozilla la: Mozilla Corporation (Attn: Mozilla – Legal Notices, 2 Harrison Street, San Francisco CA 94105) sau prin e-mail la: <mailto:legal-notices@mozilla.com>.
